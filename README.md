@@ -14,5 +14,3 @@
 
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6799839cd6a983c895557d56?variant=dark" alt="roadmap.sh"/></a>
-
-<figure><embed src="https://wakatime.com/share/@cf8c2cb5-26c3-468c-ac11-aa3978661517/f44b0c07-935f-4316-b26a-9cf0ef5b0b54.svg"></embed></figure>
