@@ -12,41 +12,6 @@
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
-<style>
-.readme_github {
-    overflow: auto;
-    width: 100%;
-}
-
-.readme_github table {
-    border: 1px solid #dededf;
-    height: 100%;
-    width: 100%;
-    table-layout: fixed;
-    border-collapse: collapse;
-    border-spacing: 1px;
-    text-align: center;
-}
-
-.readme_github caption {
-    caption-side: top;
-    text-align: center;
-}
-
-.readme_github th {
-    border: 1px solid #dededf;
-    background-color: #eceff1;
-    color: #000000;
-    padding: 5px;
-}
-
-.readme_github td {
-    border: 1px solid #dededf;
-    background-color: #ffffff;
-    color: #000000;
-    padding: 5px;
-}
-</style>
 <div class="readme_github" role="region" tabindex="0">
 <table>
     <tbody>
